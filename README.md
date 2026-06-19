@@ -12,10 +12,9 @@ Cette vidéo a comme thème la compréhension des autres *formes de vies* et com
 
 4. **Comment participer ?**\
 Contactez Katokoda sur GitHub, sur Discord (katokoda), sur Telegram (@Samuel_Bel) ou par e-mail (katokoda@gmail.com).
-Vous pouvez aussi faire des Pull-Requests sur ce depôt.
 
 5. **Est-ce que les sous-titres seront disponibles une fois la vidéo traduite?**\
-Seul EGO peut ajouter des sous-titres sa vidéo. Une fois que le projet aura fait ses premiers pas, nous contacterons EGO pour savoir si ce projet à un sens.
+Seul EGO peut ajouter des sous-titres sa vidéo. Une fois que le projet aura fait ses premiers pas, nous contacterons EGO pour savoir si ce projet a un sens.
 
 6. **Quels sont les autres fichiers de ce depôt ?**\
     - Dans un premier temps, la conceptothèque nous servira de liste de concepts fréquemment utilisés dans la vidéo et/ou qui ne sont pas fréquents en Espéranto. Ce document servira de référence quand nous pourrons traduire la suite.
@@ -33,7 +32,6 @@ Tiu filmeto temas pri kompreno de *aliaj viv-estaĵoj* kaj celas inciti respekto
 
 4. **Kiel partopreni?**\
 Sendu mesaŝon al Katokoda tra GitHub, Diskordo (katokoda), Telegramo (@Samuel_Bel) aŭ retmesaĝe (katokoda@gmail.com).
-Vi ankaŭ povas peti tirpeton de tiu deponejo.
 
 5. **Ĉu le subtitoloj elekteblos kiam tiu projekto estos finita?**\
 Ĉar nur EGO povas aldoni subtitolojn al sia filmeto, ne eblas scii. Ni provos kontakti EGOn post la unuaj paŝoj de la projetko.
