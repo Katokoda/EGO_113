@@ -1,18 +1,21 @@
-,Dernière sauvegarde github,23 juin,,,
+,Dernière sauvegarde github,4 juillet,,,
 ,Mot/Concept en français,Traduction,Confirmation,sources,commentaires/discussion
 1,"_Communication, langage et déchiffrement",,,,
 1,Architecture,Arkitekturo,oui,https://eo.wikipedia.org/wiki/Arkitekturo,
-1,Clic,Klaketo,,https://eo.wikipedia.org/wiki/Klaketo,"La vikipedia paĝo parolas pri specifa homa bruo. Tamen, la vorto mem signifas ""eta klako"", kiu bonege priskribas la bruon de kaŝalotoj."
+1,Clic,Klaketo,,https://eo.wikipedia.org/wiki/Klaketo,"La vikipedia paĝo parolas pri specifa homa bruo. Tamen, la vorto mem signifas ""eta klako"", kiu bonege priskribas la bruon de kaŝalotoj. sen : dans la vidéo il décompose les clics selon les sons humains, je pense que c'est LA bonne traduction pour la vidéo, au moins jusqu'au moment où on apprend que c'est animal et pas humain/extraterrestre"
 1,Coda,Kodo,oui,"https://eo.wikipedia.org/wiki/Kodo_(muziko)
 et https://english.stackexchange.com/questions/629270/why-are-whales-click-sequences-called-codas","Ĉar la vorto origine estas pruntita de la muziko, eĉ se evidentiĝis poste ke ĝi ne estas nur fine de la ""mesaĝoj"", tio plene taŭgas."
-1,Déchiffrement,Deĉifrado,oui,https://eo.wikipedia.org/wiki/De%C4%89ifrado,"Aŭ ""elkriptiĝo""?"
+1,Déchiffrement,Deĉifrado,oui,https://eo.wikipedia.org/wiki/De%C4%89ifrado,"Aŭ ""elkriptiĝo""? --> Même si la différence est claire dans d'autres langues, en espéranto ""deĉifrado"" peut prendre les deux sens."
+1,Formant,Formanto,oui,https://eo.wikipedia.org/wiki/Formanto,
 1,Fréquence dominante,Ĉefa frekvenco,oui,,
 1,Ornementation,Ornamo,oui,https://eo.wikipedia.org/wiki/Ornamo_(muziko),
 1,Rubato,Rubato,oui,https://eo.wikipedia.org/wiki/Rubato_(muziko),
 1,Signal,Signalo,oui,https://eo.wikipedia.org/wiki/Signal-prilaborado ,
 1,Signature spectrale,Radia spektro,oui,https://eo.wikipedia.org/wiki/Frekvenca_spektro,"Laŭ ""Radia spektro de fero"""
+1,Spectrogramme,Spektrogramo,oui,https://eo.wikipedia.org/wiki/Spektrogramo,
 1,Tempo,Tempo,oui,https://eo.wikipedia.org/wiki/Tempo_(muziko) ,
 1,Unité élémentaire,Baza ero,oui,https://eo.wikipedia.org/wiki/Atomo,"Atomo estas baza ero, kiu konsistigas materion"
+1,Voyelle,Vokalo,oui,https://eo.wikipedia.org/wiki/Vokalo,
 2,_Astronomie et intelligence extraterrestre,,,,
 2,Alien,Fremdulo / Fremda,,,"Il me semble qu'Ego utilise spécifiquement ce terme pour faire penser à des extraterrestres mais en vrai il souligne juste la différence ressentie, donc ""fremda"" est adaptée."
 2,Année-lumière,Lumjaro,oui,https://eo.wikipedia.org/wiki/Lumjaro,
@@ -43,35 +46,32 @@ et https://english.stackexchange.com/questions/629270/why-are-whales-click-seque
 4,Transmission culturelle,Kultura transmisio,oui,https://vortaro.net/#transmisii_kd + https://eo.wikipedia.org/wiki/Kulturo ,
 4,Vocalise,Silabkanto,oui,https://reta-vortaro.de/revo/art/kant.html,
 5,_Cognition et intelligence,,,,
-5,Cognition,Kogno,,https://eo.wikipedia.org/wiki/Kogno,
-5,Comportement social,Socia konduto,,https://eo.wikipedia.org/wiki/Konduto,
-5,Conscience de soi,Memkonscio,,https://eo.wikipedia.org/wiki/Memkonscio,
-5,Deuil,Malĝojo / Funebro,,https://eo.wikipedia.org/wiki/Malĝojo / https://eo.wikipedia.org/wiki/Funebro,"Funebro est plus spécifique, il s'agit ici d'honorer les morts"
+5,Cognition,Kogno,oui,https://eo.wikipedia.org/wiki/Kogno,
+5,Comportement social,Socia konduto,oui,https://eo.wikipedia.org/wiki/Konduto,
+5,Conscience de soi,Memkonscio,oui,https://eo.wikipedia.org/wiki/Memkonscio,
+5,Deuil,Funebro,oui,https://eo.wikipedia.org/wiki/Funebro,
+5,Neurone en fuseau,Longforma neŭrono,oui,,
 6,_Structure sociale des cachalots,,,,
-6,Alloparentalité,Senparenca infana prizorgo,, https://fr.wikipedia.org/wiki/Parent + https://vortaro.net/#parenco_kd ,"aucune certitude concernant la traduction, quelqu'un a mieux ?"
-6,Groupe matrilinéaire,patr'in'a're'kon'ar'o / Patrinidaro ?,,https://vortaro.net/#rekono_kd + https://www.google.com/search?client=opera-gx&q=matrilinéaire&sourceid=opera&ie=UTF-8&oe=UTF-8 ,"aucune certitude concernant la traduction, quelqu'un a mieux ?"
+6,Alloparentalité,Neparenca prizorgado,,https://vortaro.net/#parenco_kd ,"""Senparenca"" ---> changé à ""Neparenca"" par Katokoda"
+6,Groupe matrilinéaire,À voir selon le contexte,,https://vortaro.net/#rekono_kd + https://www.google.com/search?client=opera-gx&q=matrilinéaire&sourceid=opera&ie=UTF-8&oe=UTF-8 ,"Proposition de ""patr'in'a're'kon'ar'o"" ou ""Patrinidaro"". À voir selon le contexte.
+"
 7,_Éthique animale,,,,
-7,Conscience animale,besta(_)memkonscio,,https://eo.wikipedia.org/wiki/Memkonscio,"ou animalamemkonscio ? trouvé plus haut pour ""écholocalisation""*"
-7,Droit à exister,Ekzistrajto,,https://eo.wikipedia.org/wiki/Sindikato,"""En pluraj landoj la ekzistrajto de sindikatoj estas konstitucie sekurigita"""
-7,Élevage,Bredado,,https://eo.wikipedia.org/wiki/Bredado + https://vortaro.net/#bredo_kd,
-7,Exploitation,Ekspluatado,,https://vortaro.net/#ekspluato_kd,
+7,Conscience animale,Besta/Animala memkonscio,oui,https://eo.wikipedia.org/wiki/Memkonscio,Besta/Animala selon le contecte si on inclut les humains ou non
+7,Droit à exister,Ekzistrajto,oui,https://eo.wikipedia.org/wiki/Sindikato,"""En pluraj landoj la ekzistrajto de sindikatoj estas konstitucie sekurigita"""
+7,Élevage,Bredado,oui,https://eo.wikipedia.org/wiki/Bredado + https://vortaro.net/#bredo_kd,
+7,Exploitation,Ekspluatado,oui,https://vortaro.net/#ekspluato_kd,
 8,_Comparaison humains / autres intelligences,,,,
-8,Communication interespèces,Interspecia komunikado,,https://vortaro.net/#komuniko_kd + https://eo.wikipedia.org/wiki/Specio,
-8,Compréhension de l'autre,Aliulkompreno,,,
-8,Dialogue interespèces,Interspecia dialogo,,selon interspecia komunikado + piv,
-8,Intelligence non humaine,Nehoma intelekto,,https://eo.wikipedia.org/wiki/Intelekto + https://vortaro.net/#nehoma_kd ,
-8,Projection,,,,dans quel sens ? ( https://fr.wikipedia.org/wiki/Projection )
+8,Communication interespèces,Interspecia komunikado,oui,https://vortaro.net/#komuniko_kd + https://eo.wikipedia.org/wiki/Specio,
+8,Compréhension de l'autre,Kompreno de la alia / de la fremdulo,,,
+8,Dialogue interespèces,Interspecia dialogo,oui,selon interspecia komunikado + piv,
+8,Intelligence non humaine,Nehoma intelekto,oui,https://eo.wikipedia.org/wiki/Intelekto + https://vortaro.net/#nehoma_kd ,
 9,_Concepts biologiques et cognitifs avancés,,,,
-9,Biais cognitif,Kogna biaso,,https://eo.wikipedia.org/wiki/Kogna_biaso,
-9,Contagion émotionnelle,Emocia influo,,https://eo.wikipedia.org/wiki/Emocia_intelekto,
-9,Culture animale,Besta kulturo,,,"ou animala kulturo ? trouvé plus haut pour ""écholocalisation""*"
-9,Écolocalisation,Eĥolokigo,,https://eo.wikipedia.org/wiki/Eĥolokigo,"écholocalisation ? on remarque que le terme ""animalo"" est employé*"
-9,Empathie,Empatio,,https://eo.wikipedia.org/wiki/Empatio,bien des synonymes possibles
-9,Formant,Formanto,,https://eo.wikipedia.org/wiki/Formanto,
-9,Inférence transitive,transira inferenco,,https://vortaro.net/#inferenco_kd + https://vortaro.net/#transiro_kd,
-9,Métacognition,Metakogno,,https://vortaro.net/#meta_kd,
-9,Néocortex,Novkortiko,,https://reta-vortaro.de/revo/art/kortik.html,
-9,Neurone en fuseau,Neŭrono de von Economo / long'forma neŭrono,,,
-9,Permanence de l'objet,Permanenteco de objektoj,,https://eo.wikipedia.org/wiki/Permanenteco_de_objektoj,
-9,Spectrogramme,Spektrogramo,,https://eo.wikipedia.org/wiki/Spektrogramo,
-9,Voyelle,Vokalo,,https://eo.wikipedia.org/wiki/Vokalo,
+9,Biais cognitif,Kogna biaso,oui,https://eo.wikipedia.org/wiki/Kogna_biaso,
+9,Contagion émotionnelle,Emocia influado,oui,https://eo.wikipedia.org/wiki/Emocia_intelekto,
+9,Culture animale,Besta kulturo,oui,,Besta/Animala selon le contecte si on inclut les humains ou non
+9,Écolocalisation,Eĥolokigo,oui,https://eo.wikipedia.org/wiki/Eĥolokigo,"écholocalisation ? on remarque que le terme ""animalo"" est employé*"
+9,Empathie,Empatio,oui,https://eo.wikipedia.org/wiki/Empatio,bien des synonymes possibles
+9,Inférence transitive,Transitiva inferenco,,https://vortaro.net/#inferenco_kd + https://eo.wikipedia.org/wiki/Transitiva_rilato,
+9,Métacognition,Metakogno,oui,https://vortaro.net/#meta_kd,
+9,Néocortex,À voir selon le contexte,,https://fr.wikipedia.org/wiki/Cortex_c%C3%A9r%C3%A9bral#%C3%89volution_phylog%C3%A9nique,"""Cortexte"" traduit par ""Kortekso"" dans vikipedio, mais pas de mention de cette différenciation néo-/allo-cortex"
+9,Permanence de l'objet,Permanenteco de objektoj,oui,https://eo.wikipedia.org/wiki/Permanenteco_de_objektoj,
